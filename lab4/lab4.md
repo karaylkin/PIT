@@ -5,7 +5,7 @@
 ![image](https://github.com/user-attachments/assets/aa97e02b-32ea-45ea-a341-4d55a9278923)
 ![image](https://github.com/user-attachments/assets/9a5f176e-3f21-4f54-9839-715edfa2a109)
 
-## Контейнр запущен:
+## Контейнер запущен:
 ![image](https://github.com/user-attachments/assets/af8b2fc9-fdf4-4947-90fc-44975f1ba116)
 
 ## Проверяем работу GET:
