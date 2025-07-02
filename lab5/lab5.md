@@ -1,3 +1,5 @@
+# [СКРИНКАСТ](https://disk.yandex.ru/i/HOMnRmKZkm3cgA)
+
 ## [Код сервера](https://github.com/karaylkin/PIT/blob/main/lab5/main.go)
 ## [Dockerfile](https://github.com/karaylkin/PIT/blob/main/lab5/Dockerfile)
 
